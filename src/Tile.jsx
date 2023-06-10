@@ -2,7 +2,7 @@ import React, {Component} from 'react'
 import WhitePiece from './WhitePiece'
 import BlackPiece from './BlackPiece';
 import './Tile.css'
-
+{/** this is a test comment for using github */}
 class Tile extends Component {
 
     static defaultProps = {
