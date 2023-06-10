@@ -1,0 +1,6 @@
+.BlackPiece{
+    display: flex;
+    justify-content: center;
+    font-size: 72px;
+    font-family: monospace;
+}

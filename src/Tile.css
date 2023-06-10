@@ -1,0 +1,16 @@
+.tile {
+    height: 99px;
+    width: 99px;
+    opacity: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.shape {
+   
+    height: 40px;
+    width: 75px;
+    background-color: black;
+   
+}

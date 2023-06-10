@@ -1,0 +1,15 @@
+.tile {
+    height: 99px;
+    width: 99px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.shape {
+ 
+    height: 90px;
+    width: 90px;
+    border-radius: 1%;
+    background-color: black;
+}

@@ -1,0 +1,9 @@
+.bucket {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 808px;
+    background-image: url('./desktop.jpeg');
+    border-radius: 5%;
+    font-size: 24px;
+ }
